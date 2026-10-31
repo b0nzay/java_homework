@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Сборка
+target/
+build/
+.gradle/
+
+# Скомпилированные классы
+*.class
+
+# Системные файлы
+.DS_Store
+Thumbs.db
